@@ -1,0 +1,26 @@
+.container {
+
+    --logo-width: 75vw;
+
+    font-family: Arial, sans-serif;
+    font-size: 75vw;
+    position: relative;
+    z-index: 100;
+    left: 2%;
+    font-weight: light;
+    letter-spacing: -0.1em;
+    color: inherit;
+    transform: skew(-20deg) scaleY(1.5);
+    text-transform: lowercase;
+
+    @media screen and (min-width: 768px) {
+        font-size: 37vw;
+    }
+
+    @media screen and (min-width: 1024px) {
+        top: -1%;
+        left: 0.5%;
+        font-size: 27vw;
+    }
+
+}

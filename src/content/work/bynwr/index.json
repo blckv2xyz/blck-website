@@ -1,0 +1,20 @@
+{
+    "title": "byNWR",
+    "description": "When tasked with the assignment of developing the byNWR platform, I was given the opportunity to work with a team of talented individuals to bring renowned filmmaker Nicolas Winding Refn's vision to life. The platform is a celebration of the rare, the forgotten, and the unknown, and it was a pleasure to be a part of the team that made it happen.",
+    "tasks": [
+        "Technical lead",
+        "Development"
+    ],
+    "external_link": "https://bynwr.com",
+    "image": "case-1.jpg",
+    "links": [
+        {
+            "title": "Visit the site",
+            "url": "https://bynwr.com"
+        },
+        {
+            "title": "Copenhagen Cowboy music site",
+            "url": "https://cc.bynwr.com"
+        }
+    ]
+}

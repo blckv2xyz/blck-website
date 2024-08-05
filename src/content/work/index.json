@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Xtych",
+        "slug": "xtych",
+        "description": "An online radio station and a platform for music discovery and release collaboration through transparent onchain technologies.",
+        "external_link": "https://xty.ch",
+        "tasks": [
+            "Project management",
+            "Design",
+            "Development",
+            "Branding"
+        ],
+        "image": "case-2.jpg"
+    },
+    {
+        "title": "byNWR",
+        "slug": "bynwr",
+        "external_link": "https://bynwr.com",
+        "tasks": [
+            "Technical lead",
+            "Development"
+        ],
+        "description": "Renowned filmmaker Nicolas Winding Refn's platform for the rare, the forgotten, and the unknown.",
+        "image": "case-1.jpg"
+    },
+    {
+        "title": "RiverOS",
+        "slug": "riveros",
+        "external_link": "https://riveros.computer",
+        "description": "An onchain operating system for the ralphverse. IYKYK.",
+        "image": "case-3.jpg"
+    }
+]
